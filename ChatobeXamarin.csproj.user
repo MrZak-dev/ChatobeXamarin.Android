@@ -3,5 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>Xiaomi Redmi 4X</SelectedDevice>
     <DefaultDevice>pixel_2_pie_9_0_-_api_28</DefaultDevice>
+    <AndroidDesignerPreferredTheme>FullScreen</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredDevice>Nexus 5</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
