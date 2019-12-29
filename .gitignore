@@ -1,6 +1,6 @@
 .vs/
 .vs
-obj/
+obj
 obj/*
 bin/
 bin/*
