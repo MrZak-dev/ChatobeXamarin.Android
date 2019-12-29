@@ -1551,24 +1551,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Developer c#\\.nuget\\packages\\": {},
+    "C:\\Users\\zakar\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Developer c#\\Desktop\\Work - Zakaria Gue\\Visual Studio Projects\\ChatobeXamarin\\ChatobeXamarin.csproj",
+      "projectUniqueName": "D:\\Projects\\Visual Studio Projects\\ChatobeXamarin.Android\\ChatobeXamarin.csproj",
       "projectName": "ChatobeXamarin",
-      "projectPath": "C:\\Users\\Developer c#\\Desktop\\Work - Zakaria Gue\\Visual Studio Projects\\ChatobeXamarin\\ChatobeXamarin.csproj",
-      "packagesPath": "C:\\Users\\Developer c#\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Developer c#\\Desktop\\Work - Zakaria Gue\\Visual Studio Projects\\ChatobeXamarin\\obj\\",
+      "projectPath": "D:\\Projects\\Visual Studio Projects\\ChatobeXamarin.Android\\ChatobeXamarin.csproj",
+      "packagesPath": "C:\\Users\\zakar\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Visual Studio Projects\\ChatobeXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Developer c#\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zakar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
